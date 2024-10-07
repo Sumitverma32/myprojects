@@ -1,2 +1,2 @@
 # myprojects
-This is myprojects for git and githubs class
+This is myprojects for git &map; and githubs class.
